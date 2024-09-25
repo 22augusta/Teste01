@@ -1,0 +1,9 @@
+INDICE = 13
+SOMA = 0
+CONTADOR = 0
+
+while CONTADOR < INDICE:
+    CONTADOR += 1
+    SOMA += CONTADOR
+
+print(SOMA)
